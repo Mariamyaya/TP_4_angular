@@ -1,3 +1,13 @@
+<h1>Capture1: affichage des produits<h1>
+<img src="captures/c1.png">
+<h1>Capture2: ajout des boutons d'action delete<h1>
+<img src="captures/c2.png">
+<h1>Capture3: ajout de zone de text pour filtrer les produits <h1>
+<img src="captures/c3.png">
+<h1>Capture4: Affichage de tout les produits après le test de filtrage<h1>
+<img src="captures/c4.png">
+
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
